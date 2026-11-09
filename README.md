@@ -24,6 +24,7 @@
 ## 📑 Table of Contents
 1. [🌟 What is STAR Music?](#-what-is-star-music)
 2. [🆚 STAR Music vs. Spotify — Why Switch?](#-star-music-vs-spotify--why-switch)
+   - [📡 Spotlight: Real-Time Party Mode & Shared Listening (STAR Sync vs. Spotify Jam)](#-spotlight-real-time-party-mode--shared-listening-star-sync-vs-spotify-jam)
 3. [🚀 Complete Feature Walkthrough](#-complete-feature-walkthrough)
    - [🔒 Zero-Login Ecosystem & Hardware Enclave](#1-zero-login-ecosystem--hardware-enclave)
    - [🎨 Glassmorphic Desktop Mini Player & Web PiP](#2-glassmorphic-desktop-mini-player--web-pip)
@@ -66,13 +67,29 @@ See how STAR Music compares directly against the industry standard:
 | **Audio Streaming Quality** | 160kbps (Free) / 320kbps Ogg (Premium) | ✅ **Full 320kbps HD Audio Pipeline (AAC/Opus)** |
 | **Offline Downloads** | ❌ Locked to Premium ($11.99/mo); DRM files expire every 30 days offline | ✅ **True 320kbps Local Downloads for Everyone; permanent IndexedDB storage** |
 | **Account Creation** | ❌ Mandatory email, password, phone number, tracking | ✅ **Zero-Login. 256-Bit Hardware Key bound to device.** |
-| **Shared Listening (Party Mode)**| ⚠️ Spotify Jam (Requires ALL members to have Paid Premium) | ✅ **STAR Sync: 1 Host can invite unlimited Guests; Guests need zero keys or accounts!** |
+| **Real-Time Party Mode & Shared Listening** | ❌ **Spotify Jam (Paywalled & Limited)**<br>• Requires **every single friend** to pay $11.99/mo for Spotify Premium.<br>• Frequent 2–5s desync across different networks.<br>• Zero built-in live chat or reaction tools.<br>• No guest sleep timer auto-leave. | ✅ **STAR Sync (100% Free & Unlimited)**<br>• **Zero cost for friends**: 1 Host can invite unlimited Guests without any VIP key or account!<br>• **Sub-second micro-sync (<300ms)** keeps everyone on the exact same beat.<br>• **Live Party Chat & Floating Animated Emojis** (🔥, ❤️, 🎉, ⚡) with anti-spam protection.<br>• **Sleep Timer Auto-Leave** cleanly disconnects sleeping friends without pausing the party.<br>• **Instant pairing** via 8-digit Room Code or camera QR Code. |
 | **Desktop Mini Player** | ⚠️ Basic rectangular box with limited styling | ✅ **Frameless, Transparent Glassmorphic Mini Player with drag & hover controls** |
 | **Audio Equalizer** | ⚠️ Mobile-only, basic 6-band EQ slider | ✅ **10-Band Studio Parametric EQ + Slowed+Reverb + Nightcore Pitch + Convolver** |
 | **Synchronized Lyrics** | ⚠️ Musixmatch lyrics (often timed out or limited) | ✅ **Real-Time Click-to-Seek Lyrics + Built-in Lyric Finder & Manual Timing Editor** |
 | **Spotify Import** | ❌ Cannot import outside libraries | ✅ **1-Click URL Import: Paste any Spotify playlist/album link to play instantly** |
 | **Theme Customization** | ❌ Dark mode only; locked green accent | ✅ **True Light Mode + Pitch Dark OLED + 5-Tier Custom Accent Palette** |
 | **Resource Usage** | ⚠️ Heavy Electron/Chromium RAM footprint | ✅ **Optimized lightweight build with smooth 60fps animations & low CPU usage** |
+
+---
+
+### 📡 Spotlight: Real-Time Party Mode & Shared Listening (STAR Sync vs. Spotify Jam)
+
+Shared listening with friends and family is where **STAR Music completely outclasses Spotify**:
+
+| Capability | 🟢 Spotify Jam | 🌟 STAR Music (STAR Sync) |
+| :--- | :--- | :--- |
+| **Cost for Friends** | ❌ **Expensive Paywall**: Every single person in the Jam must pay for **Spotify Premium ($11.99/mo)**. Free users cannot join. | ✅ **100% Free for Everyone**: Only the Host sets up the party; **all friends join as Guests for $0 with zero VIP keys, zero subscriptions, or accounts required**. |
+| **Sync Accuracy & Latency** | ⚠️ Noticeable 2–5s desync across different Wi-Fi or mobile data connections. | ✅ **Sub-second micro-sync (<300ms)** engine continuously compensates for network latency so everyone is on the exact same millisecond. |
+| **Interactive Party Chat** | ❌ None. Spotify provides zero in-app communication tools. | ✅ **Integrated Live Chat**: Talk, discuss songs, and share thoughts with everyone in the room directly inside the music player. |
+| **Floating Reaction Emojis** | ❌ None. | ✅ **Real-Time Animated Reaction Emojis** (🔥, ❤️, 🎉, ⚡) that float gracefully across all participant screens with anti-spam cooldown protection. |
+| **Late-Night Sleep Timer** | ❌ If someone leaves or their timer stops, it can abruptly pause or break playback for the entire group. | ✅ **Smart Sleep Timer Auto-Leave**: When a guest's sleep timer hits `0:00`, they cleanly fade out and leave the party without interrupting the host's stream. |
+| **Pairing & Joining** | ⚠️ Requires Spotify app installation, logged-in account, and Bluetooth/link approval. | ✅ **Zero-Friction Pairing**: 1-Click invite link, 8-character Room Code (`PARTY-XXXXXX`), or instant QR code scan from camera. |
+| **Host Ambience Governance**| ❌ Free-for-all queue conflicts. | ✅ **Host-Governed Quality**: Host controls playback, tracks, and visual ambience, while guest devices stay in sync smoothly without chaos. |
 
 ---
 
